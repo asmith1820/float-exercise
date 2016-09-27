@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+main {
+  padding-left: 90px;
+  padding-right: 90px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nebula {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.one {
+	float:left;
+	margin-right: 20px;
+
+}
+
+.two {
+	float:right;
+	margin-left: 20px;
+}
